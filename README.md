@@ -6,6 +6,10 @@ Aplicación educativa para reconocer **números escritos (0..9)** con:
 - **Random Forest**
 - Interfaz Streamlit con **lienzo de dibujo** (`streamlit-drawable-canvas`)
 
+> También se incluye una aplicación alternativa e independiente para explorar estudios y profesiones:
+> consulta [README_ORIENTADOR.md](README_ORIENTADOR.md) y ejecútala con
+> `streamlit run app_orientador.py`. No reemplaza el detector de números de este README.
+
 ---
 
 ## 1) Estructura del proyecto
